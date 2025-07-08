@@ -17,7 +17,7 @@ app.use("/api/products",products_routes )
 const start = async () => {
     try {
         await connectDB(process.env.MONGODB_URL);
-        app.listen(PORT, () => {
+        app.listen(PORT,'0.0.0.0', () => {
             console.log(`Server running at http://localhost:${PORT}`);
         });
     } catch (error) {
