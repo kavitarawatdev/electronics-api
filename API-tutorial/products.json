@@ -1,0 +1,432 @@
+[
+  {
+    "name": "iPhone 14 Pro",
+    "featured": false,
+    "category": "smartphone",
+    "price": 129999,
+    "colors":["#1C1C1E", "#F2F2F7", "#8E8E93", "#D4AF37"],
+    "img":"https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910191/apple_iphone_14_pro_hhlfgm.webp",
+    "images":["https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910191/apple_iphone_14_pro_hhlfgm.webp",
+     "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910281/apple_iphone_14_pro_b_wvqbv7.jpg",
+     "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910262/apple_iphone_14_pro_c_ewt7ov.jpg",
+     "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910261/apple_iphone_14_pro_d_ueul5i.jpg"],
+    "stock":10,
+    "reviews": 48,
+    "ratings":4.9,
+    "description":"Experience the future of smartphones with the iPhone 14 Pro, featuring a powerful A16 Bionic chip, advanced 48MP camera system, and the all-new Dynamic Island for smarter interactions. Its Super Retina XDR display delivers stunning visuals with ProMotion technology, all encased in a sleek, surgical-grade stainless steel frame.",
+     "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "featured": false,
+    "category": "smartphone",
+    "price": 74999,
+    "colors":["#000000", "#EAEAEA", "#B0C4DE", "#C0C0C0"],
+    "img":"https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910659/samsung_galaxy_s23_fvs94q.webp",
+    "images":["https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910659/samsung_galaxy_s23_fvs94q.webp",
+    "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910658/samsung_galaxy_s23_b_rnnawe.jpg",
+    "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910653/samsung_galaxy_s23_c_qg9nwz.jpg",
+    "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910652/samsung_galaxy_s23_d_ougq8r.jpg"],
+    "stock":14,
+    "reviews":50,
+    "ratings":4.8,
+    "description":"The Samsung Galaxy S23 redefines flagship performance with its Snapdragon 8 Gen 2 processor, vibrant 6.1-inch Dynamic AMOLED 2X display, and pro-grade triple camera setup. Built for speed, clarity, and durability, it’s crafted with Gorilla Glass Victus 2 and Armor Aluminum for a premium feel that lasts.",
+    "company": "Samsung"
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "featured": true,
+    "category": "smartwatch",
+    "price": 42999,
+    "colors":["#1C1C1E", "#E5E5EA", "#F9E5C9", "#C1B6FC"],
+    "img":"https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980805/41TBtt8sBpL._SX300_SY300_QL70_FMwebp__rt8kxl.webp",
+    "images":["https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980805/41TBtt8sBpL._SX300_SY300_QL70_FMwebp__rt8kxl.webp","https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980746/61_M2eJpNvL._SX522__kbvbpi.jpg","https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980730/710A1aIMlIL._SX522__mbfvqs.jpg","https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980729/81Ou2-JenHL._SX522__bcebup.jpg"],
+    "stock":18,
+    "reviews":49,
+    "ratings":4.6,
+    "description":"Stay connected, healthy, and in control with the Apple Watch Series 9. Featuring a powerful new S9 chip, brighter Always-On Retina display, advanced health sensors, and precision tracking, it’s your ultimate fitness and productivity companion — all wrapped in a sleek, durable design.",
+    "company": "Apple"
+  },
+
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "featured": false,
+    "category": "smartwatch",
+    "price": 27999,
+    "colors": ["#1C1C1E", "#ECECEC", "#B0BEC5"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980497/71sRBqqrOpL._SX679__wcygoa.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980497/71sRBqqrOpL._SX679__wcygoa.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980497/71HKLAmV6SL._SL1500__iuw0pp.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980496/811RIOYTm0L._SL1500__lvqpll.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980497/61JIwdYEzDL._SL1500__y2vqbu.jpg"
+    ],
+    "stock": 42,
+    "reviews": 214,
+    "ratings": 4.5,
+    "description": "Samsung Galaxy Watch 6 is a sleek and smart companion that keeps your health and productivity in check with fitness tracking, sleep monitoring, and seamless smartphone connectivity.",
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell UltraSharp 27",
+    "featured": true,
+    "category": "monitor",
+    "price": 54999,
+    "colors": ["#000000", "#A9A9A9"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751913200/71J2jIOKSRL._SL1500__uadgt6.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751913200/71J2jIOKSRL._SL1500__uadgt6.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751913201/61xmh88AptL._SL1500__mushg4.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751913205/51vAozSx8kL._SL1500__nslnh1.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751913194/71AVS9GjAML._SL1500__kvtsjh.jpg"
+    ],
+    "stock": 36,
+    "reviews": 387,
+    "ratings": 4.7,
+    "description": "Dell UltraSharp 27 is a premium monitor with ultra-thin bezels, 4K resolution, and precise color calibration—ideal for designers and professionals.",
+    "company": "Dell"
+  },
+  {
+    "name": "LG 4K UHD Monitor",
+    "featured": false,
+    "category": "monitor",
+    "price": 39999,
+    "colors": ["#2E2E2E", "#CCCCCC", "#FFFFFF"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980020/71iEIT-d6CL._SL1500__cq4xln.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980020/71iEIT-d6CL._SL1500__cq4xln.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980019/71mNgAPgH8L._SL1500__okq2pm.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980019/41Yv9xW-ZkL._SL1500__ipyx8l.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980019/4133UqcvAqL._SL1500__qmh5mn.jpg"
+    ],
+    "stock": 53,
+    "reviews": 174,
+    "ratings": 4.4,
+    "description": "LG 4K UHD Monitor offers razor-sharp resolution, HDR10 support, and a wide color gamut for immersive gaming and creative work.",
+    "company": "LG"
+  },
+
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "featured": false,
+    "category": "tablet",
+    "price": 58999,
+    "colors": ["#121212", "#F1F1F1", "#9AA0A6"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911039/Samsung_Galaxy_Tab_S8_o1o8dw.webp",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911039/Samsung_Galaxy_Tab_S8_o1o8dw.webp",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911038/Samsung_Galaxy_Tab_S8_c_kqffre.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911038/Samsung_Galaxy_Tab_S8_d_ofiodf.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911038/Samsung_Galaxy_Tab_S8_b_m7fubz.jpg"
+    ],
+    "stock": 47,
+    "reviews": 623,
+    "ratings": 4.6,
+    "description": "Samsung Galaxy Tab S8 is a powerful and sleek Android tablet designed for work, play, and creativity with a stunning display and S Pen support.",
+    "company": "Samsung"
+  },
+  {
+    "name": "MacBook Air M2",
+    "featured": true,
+    "category": "laptop",
+    "price": 114999,
+    "colors": ["#1D1D1F", "#F2F2F7", "#A0A0A0"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980150/71RDgtHsREL._SX679__rzpfij.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980150/71RDgtHsREL._SX679__rzpfij.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980144/71GpgHI8GTL._SX679__zn6qkb.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980147/61PhTVL48ML._SX679__ebpuad.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980144/610iE1WEQVL._SX679__hhqmoj.jpg"
+    ],
+    "stock": 65,
+    "reviews": 912,
+    "ratings": 4.9,
+    "description": "MacBook Air M2 combines silent fanless design, all-day battery, and powerful performance in an ultra-light body perfect for students and professionals.",
+    "company": "Apple"
+  },
+  {
+    "name": "Asus ROG Gaming PC",
+    "featured": true,
+    "category": "desktop",
+    "price": 129999,
+    "colors": ["#2B2B2B", "#3C3F41", "#CCCCCC"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911337/Asus_ROG_Gaming_PC_prub89.webp",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911337/Asus_ROG_Gaming_PC_prub89.webp",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911337/81Fc-mO5GcL._SX679__uetm5f.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911337/71Yi9xGMdTL._SX679__pjsfw9.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911337/81MR3wwOJqL._SX679__cdmzea.jpg"
+    ],
+    "stock": 29,
+    "reviews": 788,
+    "ratings": 4.8,
+    "description": "Asus ROG Gaming PC is a high-performance machine built for immersive gaming, intense workloads, and seamless multitasking with top-tier graphics and cooling.",
+    "company": "ASUS"
+  },
+{
+    "name": "Lenovo ThinkCentre",
+    "featured": false,
+    "category": "desktop",
+    "price": 85999,
+    "colors": ["#1B1B1B", "#D3D3D3", "#606060"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982569/211zUC5gHjL_tp7yt9.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982569/211zUC5gHjL_tp7yt9.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982562/61EVnaW4ezL._SX679__kzgjci.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982561/61qGf7AEI6L._SX679__caf5ee.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982561/619ExDJM6jL._SX679__i78psa.jpg"
+    ],
+    "stock": 58,
+    "reviews": 335,
+    "ratings": 4.4,
+    "description": "Lenovo ThinkCentre is a reliable desktop PC built for everyday productivity, multitasking, and smooth performance in professional settings.",
+    "company": "Lenovo"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "featured": true,
+    "category": "accessory",
+    "price": 29999,
+    "colors": ["#121212", "#D8D8D8"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982807/61Gdpfwb4VL._SL1500__qw6iiv.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982807/61Gdpfwb4VL._SL1500__qw6iiv.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982812/31vOBg8cPaL._SX300_SY300_QL70_FMwebp__x8szlu.webp",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982803/51pFYV7FHdL._SL1200__iab1ct.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982801/71wfM0kcGiL._SL1500__qixltj.jpg"
+    ],
+    "stock": 34,
+    "reviews": 1098,
+    "ratings": 4.9,
+    "description": "Sony WH-1000XM5 headphones offer industry-leading noise cancellation, superb sound quality, and all-day comfort for an immersive audio experience.",
+    "company": "Sony"
+  },
+  {
+    "name": "Apple AirPods 4",
+    "featured": false,
+    "category": "accessory",
+    "price": 26999,
+    "colors": ["#F5F5F5", "#DADADA"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981739/61oCISLE_PL._SX679__ls6jgg.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981739/61oCISLE_PL._SX679__ls6jgg.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981738/51pOjb8cWPL._SX679__idvcjq.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981737/61o8blsHYIL._SX679__mbr3sa.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981721/715J6Hx8xyL._SX679__bbq1uz.jpg"
+    ],
+    "stock": 76,
+    "reviews": 864,
+    "ratings": 4.7,
+    "description": "Apple AirPods 4 provide crystal-clear sound, seamless connectivity with Apple devices, and a lightweight design for all-day wear.",
+    "company": "Apple"
+  },
+   {
+    "name": "realme Buds Wireless Pro",
+    "featured": false,
+    "category": "accessory",
+    "price": 1799,
+    "colors": ["#000000", "#1A1A1A", "#FFCC00"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981865/51vCUSYlZFL._SY741__bvfpck.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981865/51vCUSYlZFL._SY741__bvfpck.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981861/61ZeGKtoxfL._SY741__tlzoxg.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981858/61zxUYqRz_L._SY741__dp9cs0.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981859/711881GBhHL._SY741__gmcpcx.jpg"
+    ],
+    "stock": 68,
+    "reviews": 542,
+    "ratings": 4.4,
+    "description": "realme Buds Wireless Pro offer active noise cancellation, deep bass, and 22 hours of playback time, perfect for music lovers on the move.",
+    "company": "realme"
+  },
+  {
+    "name": "OnePlus Bullets Wireless Z2",
+    "featured": false,
+    "category": "accessory",
+    "price": 1999,
+    "colors": ["#212121", "#A0A0A0"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984089/51sZ0bOotML._SX522__nyzqj2.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984089/51sZ0bOotML._SX522__nyzqj2.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983973/51CUlCd9YNL._SL1500__wc2ndd.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983924/51517h_R8-L._SL1500__vyfjti.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983922/61fcGDt5OmL._SL1500__wakk3k.jpg"
+    ],
+    "stock": 73,
+    "reviews": 698,
+    "ratings": 4.5,
+    "description": "OnePlus Bullets Wireless Z2 deliver rich audio, fast charging, and long battery life in a comfortable and lightweight design.",
+    "company": "OnePlus"
+  },
+  {
+    "name": "HP Pavilion x360",
+    "featured": false,
+    "category": "laptop",
+    "price": 84999,
+    "colors": ["#D4D4D4", "#333333", "#E1E1E1"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912982/41aJ_Xn2m4L._SY300_SX300__pvpf0x.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912982/41aJ_Xn2m4L._SY300_SX300__pvpf0x.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912978/71NQMpiIowL._SL1500__eq5wwm.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912978/71tHiQkk61L._SL1500__aygt7f.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912977/81U3YMvMFkL._SL1500__d6kl1o.jpg"
+    ],
+    "stock": 39,
+    "reviews": 483,
+    "ratings": 4.6,
+    "description": "HP Pavilion x360 is a versatile 2-in-1 laptop with a touchscreen display, Intel processor, and sleek design for both productivity and entertainment.",
+    "company": "HP"
+  },
+  {
+    "name": "realme Narzo 13 Pro",
+    "featured": true,
+    "category": "smartphone",
+    "price": 23999,
+    "colors": ["#141414", "#F8F8F8", "#E4D00A"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983554/71qSB43fP0L._SX679__gg06ft.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983554/71qSB43fP0L._SX679__gg06ft.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983551/71HYVOi8MvL._SL1500__oogoop.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983549/61c9zFdv2YL._SL1500__pxbrur.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983279/71c0uSO_EPL._SL1500__fzpwd4.jpg"
+    ],
+    "stock": 64,
+    "reviews": 822,
+    "ratings": 4.5,
+    "description": "realme Narzo 13 Pro features a powerful processor, large battery, and a vibrant display—perfect for gaming and everyday tasks.",
+    "company": "realme"
+  },
+    {
+    "name": "OnePlus 13R",
+    "featured": false,
+    "category": "smartphone",
+    "price": 42999,
+    "colors": ["#101010", "#ECECEC", "#BB86FC"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983685/61muVCIy-uL._SX679__r5jxtl.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983685/61muVCIy-uL._SX679__r5jxtl.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983684/61YkoBBLy5L._SX679__r4skc9.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983680/51KYAzenTfL._SX679__a3i4uq.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983676/71rPMsQJv2L._SX679__uhuu1y.jpg"
+    ],
+    "stock": 49,
+    "reviews": 784,
+    "ratings": 4.6,
+    "description": "OnePlus 13R offers lightning-fast performance, smooth display, and a flagship-grade camera system designed for power users and gamers.",
+    "company": "OnePlus"
+  },
+  {
+    "name": "Sony WF-C700N Earbuds",
+    "featured": false,
+    "category": "accessory",
+    "price": 8999,
+    "colors": ["#FFFFFF", "#B3B3B3", "#1F1F1F"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912721/21ArdL9L1pL._SX300_SY300_QL70_FMwebp__uar6fo.webp",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912721/21ArdL9L1pL._SX300_SY300_QL70_FMwebp__uar6fo.webp",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912716/41Mkq7IXd5L._SL1200__hvrpbc.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912717/810-4P5R55L._SX522__hx7t0v.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912716/71GPIykwhNL._SL1500__itjcw5.jpg"
+    ],
+    "stock": 52,
+    "reviews": 659,
+    "ratings": 4.5,
+    "description": "Sony WF-C700N earbuds provide immersive sound with active noise cancellation and a compact, comfortable fit for all-day listening.",
+    "company": "Sony"
+  },
+  {
+    "name": "HP Bluetooth Mouse Z3700",
+    "featured": false,
+    "category": "accessory",
+    "price": 1299,
+    "colors": ["#333333", "#CCCCCC", "#F4F4F4"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984535/61C8wwzHb4L._SX679__y2sywa.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984535/61C8wwzHb4L._SX679__y2sywa.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984521/61f6gHuUY_L._SX679__zaju3k.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984517/6134LA0yFCL._SX679__dj8n5t.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984525/71jFB7NcpGL._SX679__rvpfi4.jpg"
+    ],
+    "stock": 81,
+    "reviews": 308,
+    "ratings": 4.3,
+    "description": "HP Bluetooth Mouse Z3700 combines slim design and wireless functionality for smooth, precise control at home or on the go.",
+    "company": "HP"
+  },
+  {
+    "name": "Sony SRS-XB100 Bluetooth Speaker",
+    "featured": false,
+    "category": "accessory",
+    "price": 3699,
+    "colors": ["#F57C00", "#616161", "#ECEFF1"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984508/71r5EgruzPL._SX522__rn2xfi.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984508/71r5EgruzPL._SX522__rn2xfi.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984504/71ywMyWBOBL._SL1500__scmbat.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984503/71hrNK0ecIL._SL1500__lzncm4.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984503/81Hh4Ac61WL._SL1500__g8wprw.jpg"
+    ],
+    "stock": 61,
+    "reviews": 491,
+    "ratings": 4.6,
+    "description": "Sony SRS-XB100 is a compact and portable Bluetooth speaker with extra bass, water resistance, and long-lasting battery for music on the go.",
+    "company": "Sony"
+  },
+  {
+    "name": "ASUS Wired Keyboard and Mouse Combo",
+    "featured": false,
+    "category": "accessory",
+    "price": 1999,
+    "colors": ["#1A1A1A", "#BDBDBD"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912302/31XbY-tTu1L._SY300_SX300_QL70_FMwebp__sovn7e.webp",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912302/31XbY-tTu1L._SY300_SX300_QL70_FMwebp__sovn7e.webp",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912300/715rb9UYENL._SX679__zk4lvt.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912288/81uW2_jJkDL._SX679__wzh0pd.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912287/71Iw-71mjVL._SX679__zfo0la.jpg"
+    ],
+    "stock": 88,
+    "reviews": 412,
+    "ratings": 4.4,
+    "description": "ASUS Wired Keyboard and Mouse Combo offers ergonomic typing and responsive tracking, making it a reliable choice for home or office use.",
+    "company": "ASUS"
+  },
+  {
+    "name": "HP USB-C Travel Hub",
+    "featured": false,
+    "category": "accessory",
+    "price": 2599,
+    "colors": ["#E0E0E0", "#333333"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912110/617BEefMYtL._SX679__b046lx.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912110/617BEefMYtL._SX679__b046lx.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912110/51rL3x4pvjL._SX679__jsn8qd.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912113/31zig_xG67L._SX300_SY300__y0qr2u.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912110/612e6l70mdL._SX679__t7hxpn.jpg"
+    ],
+    "stock": 60,
+    "reviews": 198,
+    "ratings": 4.3,
+    "description": "HP USB-C Travel Hub expands your connectivity with multiple ports in one compact device—perfect for professionals on the go.",
+    "company": "HP"
+  },
+  {
+    "name": "Dell Mobile Adapter Speakerphone",
+    "featured": false,
+    "category": "accessory",
+    "price": 10999,
+    "colors": ["#202020", "#DADADA"],
+    "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911757/51aCOk_nPmS._SY300_SX300__e9gp2d.jpg",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911757/51aCOk_nPmS._SY300_SX300__e9gp2d.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911756/719sHyKMn4S._SX679__twhefp.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911756/51RDttspUaS._SX679__voeq1r.jpg",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911757/410JpmuPNSS._SX679__i8ivbj.jpg"
+    ],
+    "stock": 33,
+    "reviews": 264,
+    "ratings": 4.6,
+    "description": "Dell Mobile Adapter Speakerphone combines a USB-C hub and conference speaker in one compact device, ideal for hybrid work environments.",
+    "company": "Dell"
+  }
+]
