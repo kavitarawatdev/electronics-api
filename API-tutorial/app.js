@@ -11,9 +11,20 @@ app.get("/", (req, res) => {
     res.send("Hello, Express!");
 });
 
-app.use("/api/products",products_routes )
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://your-frontend-site.vercel.app"
+  ],
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  credentials: true,
+}));
 
+// ✅ 2. Add JSON parser (just in case)
+app.use(express.json());
 
+// ✅ 3. THEN apply your routes
+app.use("/api/products", products_routes);
 const start = async () => {
     try {
         await connectDB(process.env.MONGODB_URL);
