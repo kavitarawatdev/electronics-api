@@ -1,10 +1,11 @@
 const express =require("express")
 const upload = require("../upload"); 
 const Product = require("../models/product");
-const {getAllProducts, getAllProductsTesting}=require("../controllers/products")
+const {getAllProducts, getAllProductsTesting, getIndItem}=require("../controllers/products")
 const router = express.Router();
 
 router.route("/").get(getAllProducts)
+router.route("/:id").get(getIndItem);
 router.route("/testing").get(getAllProductsTesting)
 
 
