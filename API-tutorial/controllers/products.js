@@ -36,5 +36,19 @@ const getAllProductsTesting=async(req, res)=>{
     const myData=await Product.find(req.query);
     res.status(200).json({ myData})
 };
+const getIndItem = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const product = await Product.findById(id);
 
-module.exports ={ getAllProducts, getAllProductsTesting };
+    if (!product) {
+      return res.status(404).json({ error: "Product not found" });
+    }
+
+    res.status(200).json(product);
+  } catch (error) {
+    res.status(500).json({ error: "Invalid ID format or server error" });
+  }
+};
+
+module.exports ={ getAllProducts, getAllProductsTesting, getIndItem };
