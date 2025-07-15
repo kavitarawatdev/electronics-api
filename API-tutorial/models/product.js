@@ -48,6 +48,10 @@ const productSchema = new mongoose.Schema({
             message: `{VALUE} is not supported`
         },
     },
+    description: {
+        type: String,
+        required: [true, "description is required"]
+    },
     category: {
         type: String,
         required: [true, "category is required"]
