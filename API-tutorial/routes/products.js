@@ -11,7 +11,7 @@ router.route("/testing").get(getAllProductsTesting)
 
 router.post("/upload", upload.array("images", 5), async (req, res) => {
   try {
-    const { name, price, company, colors } = req.body;
+    const { name, price, company, colors, description } = req.body;
 
     if (!req.files || req.files.length < 4) {
       return res.status(400).json({ error: "Upload exactly 5 images." });
@@ -23,6 +23,7 @@ router.post("/upload", upload.array("images", 5), async (req, res) => {
       name,
       price,
       company,
+      description,
       colors: JSON.parse(colors),
       image: allImages[0],        
       images: allImages.slice(1)  
