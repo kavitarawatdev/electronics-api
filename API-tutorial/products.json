@@ -13,7 +13,7 @@
     "stock":10,
     "reviews": 48,
     "ratings":4.9,
-    "description":"Experience the future of smartphones with the iPhone 14 Pro, featuring a powerful A16 Bionic chip, advanced 48MP camera system, and the all-new Dynamic Island for smarter interactions. Its Super Retina XDR display delivers stunning visuals with ProMotion technology, all encased in a sleek, surgical-grade stainless steel frame.",
+    "description":"Experience the future of smartphones with the iPhone 16 Pro, featuring a powerful A16 Bionic chip, advanced 48MP camera system, and the all-new Dynamic Island for smarter interactions. Its Super Retina XDR display delivers stunning visuals with ProMotion technology, all encased in a sleek, surgical-grade stainless steel frame.",
      "company": "Apple"
   },
   {
@@ -373,7 +373,7 @@
     "company": "Sony"
   },
   {
-    "name": "ASUS Wired Keyboard and Mouse Combo",
+    "name": "ASUS Wireless Keyboard and Mouse Combo",
     "featured": false,
     "category": "accessory",
     "price": 1999,
@@ -388,7 +388,7 @@
     "stock": 88,
     "reviews": 412,
     "ratings": 4.4,
-    "description": "ASUS Wired Keyboard and Mouse Combo offers ergonomic typing and responsive tracking, making it a reliable choice for home or office use.",
+    "description": "ASUS Wireless Keyboard and Mouse Combo offers ergonomic typing and responsive tracking, making it a reliable choice for home or office use.",
     "company": "ASUS"
   },
   {
