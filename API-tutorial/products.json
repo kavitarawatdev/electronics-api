@@ -21,7 +21,7 @@
     "featured": false,
     "category": "smartphone",
     "price": 74999,
-    "colors":["#000000", "#EAEAEA", "#B0C4DE", "#C0C0C0"],
+    "colors":["#1C1C1E", "#D4AF37", "##F2F2F7"],
     "img":"https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910659/samsung_galaxy_s23_fvs94q.webp",
     "images":["https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910659/samsung_galaxy_s23_fvs94q.webp",
     "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751910658/samsung_galaxy_s23_b_rnnawe.jpg",
@@ -38,7 +38,7 @@
     "featured": true,
     "category": "smartwatch",
     "price": 42999,
-    "colors":["#1C1C1E", "#E5E5EA", "#F9E5C9", "#C1B6FC"],
+    "colors":["#D4AF37", "#E5E5EA", "#1C1C1E"],
     "img":"https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980805/41TBtt8sBpL._SX300_SY300_QL70_FMwebp__rt8kxl.webp",
     "images":["https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980805/41TBtt8sBpL._SX300_SY300_QL70_FMwebp__rt8kxl.webp","https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980746/61_M2eJpNvL._SX522__kbvbpi.jpg","https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980730/710A1aIMlIL._SX522__mbfvqs.jpg","https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980729/81Ou2-JenHL._SX522__bcebup.jpg"],
     "stock":18,
@@ -53,7 +53,7 @@
     "featured": false,
     "category": "smartwatch",
     "price": 27999,
-    "colors": ["#1C1C1E", "#ECECEC", "#B0BEC5"],
+    "colors": ["#F2F2F7", "#8E8E93", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980497/71sRBqqrOpL._SX679__wcygoa.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980497/71sRBqqrOpL._SX679__wcygoa.jpg",
@@ -72,7 +72,7 @@
     "featured": true,
     "category": "monitor",
     "price": 54999,
-    "colors": ["#000000", "#A9A9A9"],
+    "colors": ["#1C1C1E", "#A9A9A9"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751913200/71J2jIOKSRL._SL1500__uadgt6.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751913200/71J2jIOKSRL._SL1500__uadgt6.jpg",
@@ -91,7 +91,7 @@
     "featured": false,
     "category": "monitor",
     "price": 39999,
-    "colors": ["#2E2E2E", "#CCCCCC", "#FFFFFF"],
+    "colors": ["#2E2E2E","#8E8E93", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980020/71iEIT-d6CL._SL1500__cq4xln.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980020/71iEIT-d6CL._SL1500__cq4xln.jpg",
@@ -111,7 +111,7 @@
     "featured": false,
     "category": "tablet",
     "price": 58999,
-    "colors": ["#121212", "#F1F1F1", "#9AA0A6"],
+    "colors": [ "#8E8E93", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911039/Samsung_Galaxy_Tab_S8_o1o8dw.webp",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911039/Samsung_Galaxy_Tab_S8_o1o8dw.webp",
@@ -130,7 +130,7 @@
     "featured": true,
     "category": "laptop",
     "price": 114999,
-    "colors": ["#1D1D1F", "#F2F2F7", "#A0A0A0"],
+    "colors": ["#8E8E93", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980150/71RDgtHsREL._SX679__rzpfij.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751980150/71RDgtHsREL._SX679__rzpfij.jpg",
@@ -149,7 +149,7 @@
     "featured": true,
     "category": "desktop",
     "price": 129999,
-    "colors": ["#2B2B2B", "#3C3F41", "#CCCCCC"],
+    "colors": ["#1C1C1E", "#F2F2F7",],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911337/Asus_ROG_Gaming_PC_prub89.webp",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911337/Asus_ROG_Gaming_PC_prub89.webp",
@@ -168,7 +168,7 @@
     "featured": false,
     "category": "desktop",
     "price": 85999,
-    "colors": ["#1B1B1B", "#D3D3D3", "#606060"],
+    "colors": ["#8E8E93", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982569/211zUC5gHjL_tp7yt9.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982569/211zUC5gHjL_tp7yt9.jpg",
@@ -187,7 +187,7 @@
     "featured": true,
     "category": "accessory",
     "price": 29999,
-    "colors": ["#121212", "#D8D8D8"],
+    "colors": ["#1C1C1E", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982807/61Gdpfwb4VL._SL1500__qw6iiv.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982807/61Gdpfwb4VL._SL1500__qw6iiv.jpg",
@@ -206,7 +206,7 @@
     "featured": false,
     "category": "accessory",
     "price": 26999,
-    "colors": ["#F5F5F5", "#DADADA"],
+    "colors": [ "#F2F2F7", "#8E8E93",],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981739/61oCISLE_PL._SX679__ls6jgg.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981739/61oCISLE_PL._SX679__ls6jgg.jpg",
@@ -225,7 +225,7 @@
     "featured": false,
     "category": "accessory",
     "price": 1799,
-    "colors": ["#000000", "#1A1A1A", "#FFCC00"],
+    "colors": ["#1C1C1E", "#8E8E93",],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981865/51vCUSYlZFL._SY741__bvfpck.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981865/51vCUSYlZFL._SY741__bvfpck.jpg",
@@ -244,7 +244,7 @@
     "featured": false,
     "category": "accessory",
     "price": 1999,
-    "colors": ["#212121", "#A0A0A0"],
+    "colors": ["#F2F2F7", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984089/51sZ0bOotML._SX522__nyzqj2.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984089/51sZ0bOotML._SX522__nyzqj2.jpg",
@@ -263,7 +263,7 @@
     "featured": false,
     "category": "laptop",
     "price": 84999,
-    "colors": ["#D4D4D4", "#333333", "#E1E1E1"],
+    "colors": ["#1C1C1E", "#F2F2F7", "#8E8E93"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912982/41aJ_Xn2m4L._SY300_SX300__pvpf0x.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912982/41aJ_Xn2m4L._SY300_SX300__pvpf0x.jpg",
@@ -282,7 +282,7 @@
     "featured": true,
     "category": "smartphone",
     "price": 23999,
-    "colors": ["#141414", "#F8F8F8", "#E4D00A"],
+    "colors": [ "#F2F2F7", "#8E8E93", "#D4AF37"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983554/71qSB43fP0L._SX679__gg06ft.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983554/71qSB43fP0L._SX679__gg06ft.jpg",
@@ -301,7 +301,7 @@
     "featured": false,
     "category": "smartphone",
     "price": 42999,
-    "colors": ["#101010", "#ECECEC", "#BB86FC"],
+    "colors": ["#1C1C1E", "#ECECEC", "#BB86FC"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983685/61muVCIy-uL._SX679__r5jxtl.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751983685/61muVCIy-uL._SX679__r5jxtl.jpg",
@@ -339,7 +339,7 @@
     "featured": false,
     "category": "accessory",
     "price": 1299,
-    "colors": ["#333333", "#CCCCCC", "#F4F4F4"],
+    "colors": ["#333333", "#1C1C1E", "#F4F4F4"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984535/61C8wwzHb4L._SX679__y2sywa.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984535/61C8wwzHb4L._SX679__y2sywa.jpg",
@@ -358,7 +358,7 @@
     "featured": false,
     "category": "accessory",
     "price": 3699,
-    "colors": ["#F57C00", "#616161", "#ECEFF1"],
+    "colors": ["#F57C00", "#1C1C1E", "#ECEFF1"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984508/71r5EgruzPL._SX522__rn2xfi.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984508/71r5EgruzPL._SX522__rn2xfi.jpg",
@@ -377,7 +377,7 @@
     "featured": false,
     "category": "accessory",
     "price": 1999,
-    "colors": ["#1A1A1A", "#BDBDBD"],
+    "colors": ["#1C1C1E", "#BDBDBD"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912302/31XbY-tTu1L._SY300_SX300_QL70_FMwebp__sovn7e.webp",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912302/31XbY-tTu1L._SY300_SX300_QL70_FMwebp__sovn7e.webp",
@@ -396,7 +396,7 @@
     "featured": false,
     "category": "accessory",
     "price": 2599,
-    "colors": ["#E0E0E0", "#333333"],
+    "colors": ["#E0E0E0", "#1C1C1E"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912110/617BEefMYtL._SX679__b046lx.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912110/617BEefMYtL._SX679__b046lx.jpg",
