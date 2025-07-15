@@ -168,7 +168,7 @@
     "featured": false,
     "category": "desktop",
     "price": 85999,
-    "colors": [ "#BB86FC", "#F57C00", "#FFFFFF", "#1C1C1E"],
+    "colors": [ "#BB86FC", "#F57C00", "#F2F2F7", "#1C1C1E"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982569/211zUC5gHjL_tp7yt9.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982569/211zUC5gHjL_tp7yt9.jpg",
@@ -187,7 +187,7 @@
     "featured": true,
     "category": "accessory",
     "price": 29999,
-    "colors": ["#BB86FC", "#FFFFFF", "#1C1C1E"],
+    "colors": ["#BB86FC", "#F2F2F7", "#1C1C1E"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982807/61Gdpfwb4VL._SL1500__qw6iiv.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751982807/61Gdpfwb4VL._SL1500__qw6iiv.jpg",
@@ -206,7 +206,7 @@
     "featured": false,
     "category": "accessory",
     "price": 26999,
-    "colors": ["#FFFFFF","#BB86FC", "#F57C00", "#1C1C1E"],
+    "colors": ["#F2F2F7","#BB86FC", "#F57C00", "#1C1C1E"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981739/61oCISLE_PL._SX679__ls6jgg.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981739/61oCISLE_PL._SX679__ls6jgg.jpg",
@@ -225,7 +225,7 @@
     "featured": false,
     "category": "accessory",
     "price": 1799,
-    "colors": [ "#FFFFFF", "#1C1C1E"],
+    "colors": ["#F2F2F7", "#1C1C1E"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981865/51vCUSYlZFL._SY741__bvfpck.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751981865/51vCUSYlZFL._SY741__bvfpck.jpg",
@@ -244,7 +244,7 @@
     "featured": false,
     "category": "accessory",
     "price": 1999,
-    "colors": ["#FFFFFF", "#1C1C1E"],
+    "colors": ["#F2F2F7", "#1C1C1E"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984089/51sZ0bOotML._SX522__nyzqj2.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751984089/51sZ0bOotML._SX522__nyzqj2.jpg",
@@ -320,7 +320,7 @@
     "featured": false,
     "category": "accessory",
     "price": 8999,
-    "colors": ["#FFFFFF","#1C1C1E", "#D4AF37"]],
+    "colors": ["#F2F2F7","#1C1C1E", "#D4AF37"]],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912721/21ArdL9L1pL._SX300_SY300_QL70_FMwebp__uar6fo.webp",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751912721/21ArdL9L1pL._SX300_SY300_QL70_FMwebp__uar6fo.webp",
@@ -415,7 +415,7 @@
     "featured": false,
     "category": "accessory",
     "price": 10999,
-    "colors": ["#FFFFFF", "#1C1C1E"],
+    "colors": ["#F2F2F7", "#1C1C1E"],
     "img": "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911757/51aCOk_nPmS._SY300_SX300__e9gp2d.jpg",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1751911757/51aCOk_nPmS._SY300_SX300__e9gp2d.jpg",
