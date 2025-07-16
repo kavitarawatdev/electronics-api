@@ -15,6 +15,8 @@ app.get("/", (req, res) => {
 app.use(cors({
   origin: [
     "http://localhost:5173",
+      "http://localhost:8080",
+    "https://electronics-api-production-93ac.up.railway.app",
     "https://your-frontend-site.vercel.app"
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
