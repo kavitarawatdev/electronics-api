@@ -16,7 +16,7 @@ app.use(cors({
   origin: [
     "http://localhost:5173",
       "http://localhost:8080",
-    "electronics-api-production-39b4.up.railway.app",
+    "https://electronics-api-production-05b7.up.railway.app/",
     "https://your-frontend-site.vercel.app"
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
