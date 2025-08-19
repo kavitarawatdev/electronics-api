@@ -14,8 +14,9 @@ app.get("/", (req, res) => {
 
 app.use(cors({
   origin: [
+    "https://eleckart.netlify.app", 
     "http://localhost:5173",
-      "http://localhost:8080",
+    "http://localhost:8080",
     "https://your-frontend-site.vercel.app"
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
